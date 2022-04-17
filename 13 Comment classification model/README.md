@@ -1,0 +1,1 @@
+The project introduces core concepts of text processing (NLP) to determine the potential toxicity of the comments

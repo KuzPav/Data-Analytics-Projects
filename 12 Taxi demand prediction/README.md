@@ -1,0 +1,2 @@
+Development of a system for predicting the volume of an order based on historical data of orders from the previous time periods
+The project is using concepts of time series analysis and building of ARIMA model
