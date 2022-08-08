@@ -1,0 +1,1 @@
+The project is an in depth analysis of different tariffs from celluar company.

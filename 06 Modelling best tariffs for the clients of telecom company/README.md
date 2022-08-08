@@ -1,0 +1,1 @@
+The project introduces machine learning concepts to predict the use of diffrent tariffs by telecom company customes

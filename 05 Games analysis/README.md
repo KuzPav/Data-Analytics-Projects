@@ -1,0 +1,1 @@
+The project is targeted on in depth preprocessing and analyzing data on electronic games industry using statistical instruments.

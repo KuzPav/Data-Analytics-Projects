@@ -1,0 +1,1 @@
+The project is using machne learning to identify customer with high risk of leaving the bank based on their characteristics
