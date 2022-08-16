@@ -1,6 +1,6 @@
 This is a collection of project that I completed as part of Yandex.Praktikum Data Science course in 2021
 
-**1 Music preferences**
+**1 Music preferences** [link](01 Music preferences/README.md)
 First project of the course that introduces basic Python and pandas functionality
 
 Keywords: data processing, duplicates, gaps, logical indexing, grouping, sorting
